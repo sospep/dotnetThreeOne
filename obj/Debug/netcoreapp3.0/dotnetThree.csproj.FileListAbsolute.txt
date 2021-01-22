@@ -1,0 +1,8 @@
+C:\www\dotnetThreeOne\obj\Debug\netcoreapp3.0\dotnetThree.csprojAssemblyReference.cache
+C:\www\dotnetThreeOne\obj\Debug\netcoreapp3.0\dotnetThree.AssemblyInfoInputs.cache
+C:\www\dotnetThreeOne\obj\Debug\netcoreapp3.0\dotnetThree.AssemblyInfo.cs
+C:\www\dotnetThreeOne\obj\Debug\netcoreapp3.0\dotnetThree.csproj.CoreCompileInputs.cache
+C:\www\dotnetThreeOne\obj\Debug\netcoreapp3.0\dotnetThree.MvcApplicationPartsAssemblyInfo.cs
+C:\www\dotnetThreeOne\obj\Debug\netcoreapp3.0\dotnetThree.MvcApplicationPartsAssemblyInfo.cache
+C:\www\dotnetThreeOne\obj\Debug\netcoreapp3.0\dotnetThree.RazorAssemblyInfo.cache
+C:\www\dotnetThreeOne\obj\Debug\netcoreapp3.0\dotnetThree.RazorAssemblyInfo.cs
